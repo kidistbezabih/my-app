@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-knfmv
-=======
-kfn gflkmg
->>>>>>> 6acdae8 (add text)
-=======
-knfmv
->>>>>>> refs/remotes/origin/main

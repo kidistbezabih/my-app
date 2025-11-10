@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --radius: 0.75rem;
+  --primary: 221 83% 53%; /* blue-600 */
+  --primary-foreground: 0 0% 100%;
+  --background: 200 11% 95%; /* #F2F4F5 */
+  --foreground: 222 47% 11%;
+  --muted: 215 16% 47%;
+  --accent: 249 95% 63%;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+/* Smooth scroll behavior */
+html {
+  scroll-behavior: smooth;
+}
